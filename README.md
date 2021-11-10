@@ -1,6 +1,1 @@
-# Express Starter
-
-- Node + Express
-- ESlint + Prettier
-- husky + lint-staged
-- nodemon
+# Get a web screenshots
