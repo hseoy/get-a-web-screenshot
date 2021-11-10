@@ -2,11 +2,11 @@
   "name": "get-a-web-screenshot",
   "version": "0.1.0",
   "description": "",
-  "main": "server.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "PORT=3000 node server.js",
-    "start:dev": "PORT=3000 nodemon server.js",
+    "start": "PORT=3000 node src/index.js",
+    "start:dev": "PORT=3000 nodemon src/index.js",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
